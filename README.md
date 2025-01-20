@@ -35,12 +35,21 @@ Welcome to **FinNews**! This web application is designed to provide users with s
 - **Express**: For building the back-end API.
 - **React**: For creating a responsive and interactive front-end.
 - **Node.js**: For running the server-side application.
+![Screenshot 2025-01-20 131934](https://github.com/user-attachments/assets/9127d017-821c-4fc9-97ec-2121b0b640f8)
 
-- ![Screenshot 2025-01-20 131914](https://github.com/user-attachments/assets/c45aa206-6484-4ec2-987e-87c93170aea0)
+![Screenshot 2025-01-20 132102](https://github.com/user-attachments/assets/05ad638c-5949-472b-877c-0070ccf929d2)
 
+![Screenshot 2025-01-20 131943](https://github.com/user-attachments/assets/e3ab1c94-d9ca-4f24-87df-f14928e1708e)
 
-## Contributing
+![Screenshot 2025-01-20 132002](https://github.com/user-attachments/assets/9d9e0db3-cf97-4888-aed2-332ee947447b)
 
-We welcome contributions! If you have suggestions for improvements or features, please fork the repo and submit a pull request.
+![Screenshot 2025-01-20 131914](https://github.com/user-attachments/assets/c45aa206-6484-4ec2-987e-87c93170aea0)
+
+![Screenshot 2025-01-20 132022](https://github.com/user-attachments/assets/9af7a352-4638-4bff-9059-57347c48e3af)
+
+![Screenshot 2025-01-20 132039](https://github.com/user-attachments/assets/0f612749-f1b8-4640-85ac-a8d22e44dde5)
+
+![Screenshot 2025-01-20 132049](https://github.com/user-attachments/assets/6831cd19-7599-458a-8d70-ca623be162cd)
+
 
 
