@@ -36,6 +36,9 @@ Welcome to **FinNews**! This web application is designed to provide users with s
 - **React**: For creating a responsive and interactive front-end.
 - **Node.js**: For running the server-side application.
 
+- ![Screenshot 2025-01-20 131914](https://github.com/user-attachments/assets/c45aa206-6484-4ec2-987e-87c93170aea0)
+
+
 ## Contributing
 
 We welcome contributions! If you have suggestions for improvements or features, please fork the repo and submit a pull request.
